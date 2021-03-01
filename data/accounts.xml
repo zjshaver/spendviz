@@ -1,0 +1,17 @@
+<?xml version='1.0' standalone='yes'?>
+<!--example accounts file-->
+<accounts>
+	<creditcards>
+		<card>
+			<name>VISA Card - 1234</name>
+			<statement-date>03</statement-date>
+		</card>
+		<card>
+			<name>Mastercard - 1234</name>
+			<statement-date>10</statement-date>
+		</card>
+	</creditcards>
+	<account>
+		<name>Checking Account - Ending in 0123</name>
+	</account>
+</accounts>
