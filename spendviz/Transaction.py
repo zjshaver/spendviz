@@ -11,3 +11,9 @@ class Transaction:
 
 	def getDate(self):
 		return self.date
+
+	def getCategory(self):
+		return self.category
+
+	def getAmount(self):
+		return self.amount
